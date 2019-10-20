@@ -1,0 +1,63 @@
+C:\Users\TAPAS BISWAS\Desktop\SBMS\SBMS\bin\Debug\SBMS.exe.config
+C:\Users\TAPAS BISWAS\Desktop\SBMS\SBMS\bin\Debug\SBMS.exe
+C:\Users\TAPAS BISWAS\Desktop\SBMS\SBMS\bin\Debug\SBMS.pdb
+C:\Users\TAPAS BISWAS\Desktop\SBMS\SBMS\obj\Debug\SBMS.Properties.Resources.resources
+C:\Users\TAPAS BISWAS\Desktop\SBMS\SBMS\obj\Debug\SBMS.csproj.GenerateResource.cache
+C:\Users\TAPAS BISWAS\Desktop\SBMS\SBMS\obj\Debug\SBMS.csproj.CoreCompileInputs.cache
+C:\Users\TAPAS BISWAS\Desktop\SBMS\SBMS\obj\Debug\SBMS.exe
+C:\Users\TAPAS BISWAS\Desktop\SBMS\SBMS\obj\Debug\SBMS.pdb
+C:\Users\TAPAS BISWAS\Desktop\SBMS\SBMS\obj\Debug\SBMS.MainUi.resources
+C:\Users\TAPAS BISWAS\Desktop\SBMS\SBMS\obj\Debug\SBMS.ProductCategory.resources
+C:\Users\TAPAS BISWAS\Desktop\SBMS\SBMS\obj\Debug\SBMS.ProductInformation.resources
+C:\Users\TAPAS BISWAS\Desktop\SBMS\SBMS\obj\Debug\SBMS.csprojAssemblyReference.cache
+C:\Users\TAPAS BISWAS\Desktop\2\SBMS\SBMS\obj\Debug\SBMS.CustomerInformation.resources
+C:\Users\TAPAS BISWAS\Desktop\2\SBMS\SBMS\obj\Debug\SBMS.ProductCategory.resources
+C:\Users\TAPAS BISWAS\Desktop\2\SBMS\SBMS\obj\Debug\SBMS.MainUi.resources
+C:\Users\TAPAS BISWAS\Desktop\2\SBMS\SBMS\obj\Debug\SBMS.ProductInformation.resources
+C:\Users\TAPAS BISWAS\Desktop\2\SBMS\SBMS\obj\Debug\SBMS.Properties.Resources.resources
+C:\Users\TAPAS BISWAS\Desktop\2\SBMS\SBMS\obj\Debug\SBMS.csproj.GenerateResource.cache
+C:\Users\TAPAS BISWAS\Desktop\2\SBMS\SBMS\obj\Debug\SBMS.csproj.CoreCompileInputs.cache
+C:\Users\TAPAS BISWAS\Desktop\2\SBMS\SBMS\obj\Debug\SBMS.exe
+C:\Users\TAPAS BISWAS\Desktop\2\SBMS\SBMS\obj\Debug\SBMS.pdb
+C:\Users\TAPAS BISWAS\Desktop\2\SBMS\SBMS\bin\Debug\SBMS.exe.config
+C:\Users\TAPAS BISWAS\Desktop\2\SBMS\SBMS\bin\Debug\SBMS.exe
+C:\Users\TAPAS BISWAS\Desktop\2\SBMS\SBMS\bin\Debug\SBMS.pdb
+C:\Users\TAPAS BISWAS\Desktop\3\SBMS\SBMS\bin\Debug\SBMS.exe.config
+C:\Users\TAPAS BISWAS\Desktop\3\SBMS\SBMS\bin\Debug\SBMS.exe
+C:\Users\TAPAS BISWAS\Desktop\3\SBMS\SBMS\bin\Debug\SBMS.pdb
+C:\Users\TAPAS BISWAS\Desktop\3\SBMS\SBMS\obj\Debug\SBMS.CustomerInformation.resources
+C:\Users\TAPAS BISWAS\Desktop\3\SBMS\SBMS\obj\Debug\SBMS.ProductCategory.resources
+C:\Users\TAPAS BISWAS\Desktop\3\SBMS\SBMS\obj\Debug\SBMS.MainUi.resources
+C:\Users\TAPAS BISWAS\Desktop\3\SBMS\SBMS\obj\Debug\SBMS.ProductInformation.resources
+C:\Users\TAPAS BISWAS\Desktop\3\SBMS\SBMS\obj\Debug\SBMS.Properties.Resources.resources
+C:\Users\TAPAS BISWAS\Desktop\3\SBMS\SBMS\obj\Debug\SBMS.csproj.GenerateResource.cache
+C:\Users\TAPAS BISWAS\Desktop\3\SBMS\SBMS\obj\Debug\SBMS.csproj.CoreCompileInputs.cache
+C:\Users\TAPAS BISWAS\Desktop\3\SBMS\SBMS\obj\Debug\SBMS.exe
+C:\Users\TAPAS BISWAS\Desktop\3\SBMS\SBMS\obj\Debug\SBMS.pdb
+C:\Users\TAPAS BISWAS\Desktop\4\SBMS\SBMS\bin\Debug\SBMS.exe.config
+C:\Users\TAPAS BISWAS\Desktop\4\SBMS\SBMS\bin\Debug\SBMS.exe
+C:\Users\TAPAS BISWAS\Desktop\4\SBMS\SBMS\bin\Debug\SBMS.pdb
+C:\Users\TAPAS BISWAS\Desktop\4\SBMS\SBMS\obj\Debug\SBMS.CustomerInformation.resources
+C:\Users\TAPAS BISWAS\Desktop\4\SBMS\SBMS\obj\Debug\SBMS.ProductCategory.resources
+C:\Users\TAPAS BISWAS\Desktop\4\SBMS\SBMS\obj\Debug\SBMS.MainUi.resources
+C:\Users\TAPAS BISWAS\Desktop\4\SBMS\SBMS\obj\Debug\SBMS.ProductInformation.resources
+C:\Users\TAPAS BISWAS\Desktop\4\SBMS\SBMS\obj\Debug\SBMS.Properties.Resources.resources
+C:\Users\TAPAS BISWAS\Desktop\4\SBMS\SBMS\obj\Debug\SBMS.csproj.GenerateResource.cache
+C:\Users\TAPAS BISWAS\Desktop\4\SBMS\SBMS\obj\Debug\SBMS.csproj.CoreCompileInputs.cache
+C:\Users\TAPAS BISWAS\Desktop\4\SBMS\SBMS\obj\Debug\SBMS.exe
+C:\Users\TAPAS BISWAS\Desktop\4\SBMS\SBMS\obj\Debug\SBMS.pdb
+C:\Users\TAPAS BISWAS\Desktop\4\SBMS\SBMS\obj\Debug\SBMS.SupplierInformation.resources
+C:\Users\Web App Develop .Net\Desktop\New folder (2)\SBMS\SBMS\bin\Debug\SBMS.exe.config
+C:\Users\Web App Develop .Net\Desktop\New folder (2)\SBMS\SBMS\bin\Debug\SBMS.exe
+C:\Users\Web App Develop .Net\Desktop\New folder (2)\SBMS\SBMS\bin\Debug\SBMS.pdb
+C:\Users\Web App Develop .Net\Desktop\New folder (2)\SBMS\SBMS\obj\Debug\SBMS.CustomerInformation.resources
+C:\Users\Web App Develop .Net\Desktop\New folder (2)\SBMS\SBMS\obj\Debug\SBMS.ProductCategory.resources
+C:\Users\Web App Develop .Net\Desktop\New folder (2)\SBMS\SBMS\obj\Debug\SBMS.MainUi.resources
+C:\Users\Web App Develop .Net\Desktop\New folder (2)\SBMS\SBMS\obj\Debug\SBMS.ProductInformation.resources
+C:\Users\Web App Develop .Net\Desktop\New folder (2)\SBMS\SBMS\obj\Debug\SBMS.Properties.Resources.resources
+C:\Users\Web App Develop .Net\Desktop\New folder (2)\SBMS\SBMS\obj\Debug\SBMS.SupplierInformation.resources
+C:\Users\Web App Develop .Net\Desktop\New folder (2)\SBMS\SBMS\obj\Debug\SBMS.csproj.GenerateResource.cache
+C:\Users\Web App Develop .Net\Desktop\New folder (2)\SBMS\SBMS\obj\Debug\SBMS.csproj.CoreCompileInputs.cache
+C:\Users\Web App Develop .Net\Desktop\New folder (2)\SBMS\SBMS\obj\Debug\SBMS.exe
+C:\Users\Web App Develop .Net\Desktop\New folder (2)\SBMS\SBMS\obj\Debug\SBMS.pdb
+C:\Users\Web App Develop .Net\Desktop\New folder (2)\SBMS\SBMS\obj\Debug\SBMS.csprojAssemblyReference.cache
